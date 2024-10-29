@@ -1,9 +1,9 @@
 # Publications
 
+## 2024
+- [A Repeating Fast Radio Burst Source in a Low-Luminosity Dwarf Galaxy](https://ui.adsabs.harvard.edu/abs/2024arXiv241017044H/abstract)
+- [A Nançay Radio Telescope study of the hyperactive repeating FRB 20220912A](https://ui.adsabs.harvard.edu/abs/2024MNRAS.534.3331K/abstract)
 ## 2023
-- [The effect of lactose intolerance on future lunar exploration. O'Brien et al., Nature 1234 2023](link_to_paper)
-- [Is the Moon made of cheese? O'Brien et al., Nature 1233 2023](link_to_paper)
+- [Globular cluster ultraluminous X-ray sources in the furthest early-type galaxies ](https://ui.adsabs.harvard.edu/abs/2023MNRAS.518.3386T/abstract)
 ## 2022
-- [On ignoring experts within your field and claim everything is Aliens. O'Brien et al, "Science" 2022 ](link_to_paper)
-## 1995
-- ["Got your nose", a worrying rise in nasal robbery, O'Brien et al, 1st grade show and tell, 1995](link_to_paper)
+- [Using machine learning to identify extragalactic globular cluster candidates from ground-based photometric surveys of M87](https://ui.adsabs.harvard.edu/abs/2022MNRAS.514..943B/abstract)
